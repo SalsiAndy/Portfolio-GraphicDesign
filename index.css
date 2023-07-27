@@ -1,0 +1,30 @@
+.banner{
+    width: 100%;
+}
+
+
+.andrea{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 500px;
+    
+
+}
+
+.titulo{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+}
+
+.descripcion{
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.subrayado{
+    color: rgb(45, 130, 220);
+    font-weight: bold;
+
+}
